@@ -1,0 +1,41 @@
+body{
+	
+	
+    font-size: 25px;
+    background-repeat: no-repeat;
+    color:black;
+    background-position: center;
+    background-color: lightblue;
+}
+.container{
+	margin-top: 10px;
+	text-align: center;
+	height: 100%;
+    width: 700px;
+    
+}
+.thisselect:hover
+{
+    background-color: #202364;
+	color: red;
+	padding: 10px;
+}
+.btn-primary,.reset{
+	background-color: darkblue;
+	color: white;
+	
+	font-size: 30px;
+	padding: 20px;
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;    
+}
+#message, #finalmessage, #question
+{
+    font-weight: bold;
+    color: black;
+}
+#timeleft
+{
+    color:red;
+}
